@@ -3,9 +3,13 @@
 ## *Inhaltsverzeichnis* 
 
 [1.   Dienstag, 08. Januar 2019](#1)  
+
 [2.   Montag, 14. Januar 2019](#2)
+
 [3.   Dienstag, 15. Januar 2019](#3)
+
 [4.   Montag, 21. Januar 2019](#4)
+
 
 ## *Stundenblog*
 
