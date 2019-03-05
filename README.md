@@ -65,4 +65,9 @@ Nachdem wir letzte Stunde unser Projekt gespeichert hatten, war es uns heute nic
 
 ## <a name="6"></a> Dienstag, 29. Januar 2019
 
-Nachdem wir uns letzte Stunde für das Programm App Lab entschieden haben, haben wir heute angefangen uns detaillierter damit zu befassen. Dazu besuchten wir die Website code. org (https://studio.code.org/s/course4)
+Nachdem wir uns letzte Stunde für das Programm App Lab entschieden haben, haben wir heute angefangen uns detaillierter damit zu befassen. Dazu besuchten wir die Website code.org (https://studio.code.org/s/course4) und guckten uns die verschiedenen Möglichkeiten an. Danach versuchten wir selbst ein der einfachen Projekte zu programmieren, um uns so an das Programm zu gewöhnen.
+
+
+## <a name="7"></a> Montag, 04. Februar 2019
+
+Projekt
