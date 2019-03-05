@@ -45,3 +45,11 @@ Heute waren wir leider beide krank und konnten somit nicht an dem Projekt weiter
 
 ## <a name="4"></a> Montag, 21. Januar 2019
 Da wir letzten Diesnatg beide krank waren, haben wir uns heute weiter mit der "Super-8-Zukunfstsprognose" befasst. Dazu hatten wir beide bereits im Voraus recherchiert und uns mögliche Antworten überlegt, die wir nun als Liste in Snap! anlegten. 
+
+![bild antowrten arthur](https://user-images.githubusercontent.com/42578525/53812626-3168be80-3f5c-11e9-8742-c7654c721947.PNG)
+
+Zudem überlegten wir uns eine Figur, die wir zunäst "Infoboy" nannten und legten einen Homebildschirm für das Spiel an. 
+
+![infobaoy](https://user-images.githubusercontent.com/42578525/53812809-84427600-3f5c-11e9-8621-ddbef3d49abb.PNG)
+
+Anschließend prbierten wir aus, wie wir zufällig eine Antwort aus der Liste wählen könnten. 
