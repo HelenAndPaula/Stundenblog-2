@@ -53,3 +53,16 @@ Zudem überlegten wir uns eine Figur, die wir zunäst "Infoboy" nannten und legt
 ![infobaoy](https://user-images.githubusercontent.com/42578525/53812809-84427600-3f5c-11e9-8621-ddbef3d49abb.PNG)
 
 Anschließend prbierten wir aus, wie wir zufällig eine Antwort aus der Liste wählen könnten. 
+
+
+
+## <a name="5"></a> Dienstag, 22. Januar 2019
+
+Nachdem wir letzte Stunde unser Projekt gespeichert hatten, war es uns heute nicht möglich, uns in unser Snap!-Konto einzuloggen. Nach mehreren Versuchen und Recherchen, ob wir unser Konto wieder herstellen könnten, entschieden wir uns entweder ein neues Konto zu erstellen oder mit einem anderen Programm weiterzuarbeiten, da wir gern noh weitere Möglichkeiten ausprobieren wollten. Daher fragten wir unsere Mitschüler, mit welchen Programmen diese zuvor gearbeitet hatten. Nach einigem Überlegen entschieden wir uns für App Lab, da wir es spannend fanden eine App zu programmieren. 
+
+![fehler snap](https://user-images.githubusercontent.com/42578525/53813956-059b0800-3f5f-11e9-9cbe-655f2f09c389.PNG)
+
+
+## <a name="6"></a> Dienstag, 29. Januar 2019
+
+Nachdem wir uns letzte Stunde für das Programm App Lab entschieden haben, haben wir heute angefangen uns detaillierter damit zu befassen. Dazu besuchten wir die Website code. org (https://studio.code.org/s/course4)
