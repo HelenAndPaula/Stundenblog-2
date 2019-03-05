@@ -24,7 +24,7 @@
 
 [11.   Dienstag, 12. Februar 2019](#11)
 
-[12.   Montag, 4. Februar 2019](#12)
+[12.   Montag, 18. Februar 2019](#12)
 
 ## *Stundenblog*
 
@@ -37,10 +37,11 @@ Anschließend haben wir uns das das Curriculum von "The Beauty and Joy of Contro
  
 ## <a name="2"></a> Montag, 14. Januar 2019
 
+Nachdem wir in der letzten Stunde aufgrund der Computerprobleme nicht besonders effektiv arbeiten konnten, haben wir uns heutre weiter mit dem Curriculum von Snap befasst, um eine Idee für unser Projekt zu finden. Erst haben wir überlegt ein Tic-Tac-Toe-Spiel zu programmieren, jedoch war das Projekt als Ganzjahresprojekt gekennzeichnet, sodass wir uns dagegen entschieden.Eine weitere Idee war eine "Super-8-Zukunfstsprognose", bei der der Spieler Fragen stellt, die die Kugel bzw. eine von uns gewählte Figur beantworten sollte. Wir entschiede uns, in der nächsten Stunde mit dieser Idee weiter zu arbeiten. 
 
 ## <a name="3"></a> Dienstag, 15. Januar 2019
-Heute waren wir leider beide krank und konnten somit nicht an dem Projekt weiterarbeiten
+Heute waren wir leider beide krank und konnten somit nicht an dem Projekt weiterarbeiten.
 
 
 ## <a name="4"></a> Montag, 21. Januar 2019
-Auf der Webseite ist uns im Curriculum das Projekt zu dem Spiel "Tic Tac Toe" aufgefallen. Zuerst haben wir versucht der Anleitung zufolgen und das Spiel nachzubauen. Dies war nicht so einfacch, da man erst mal die Anleitung zu verstehen.
+Da wir letzten Diesnatg beide krank waren, haben wir uns heute weiter mit der "Super-8-Zukunfstsprognose" befasst. Dazu hatten wir beide bereits im Voraus recherchiert und uns mögliche Antworten überlegt, die wir nun als Liste in Snap! anlegten. 
