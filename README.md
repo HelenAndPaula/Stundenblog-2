@@ -67,7 +67,7 @@ Nachdem wir letzte Stunde unser Projekt gespeichert hatten, war es uns heute nic
 
 Nachdem wir uns letzte Stunde für das Programm App Lab entschieden haben, haben wir heute angefangen uns detaillierter damit zu befassen. Dazu besuchten wir die Website code.org (https://studio.code.org/s/course4) und guckten uns die verschiedenen Möglichkeiten an. Danach versuchten wir selbst eins der vom Kurs vorgegebenen einfachen Projekte zu programmieren, um uns so an das Programm zu gewöhnen.
 
-Wir entschieden uns für den Kurs "Labyrinth und Biene", da dieser sich Anfänger richtet und ihnen die Grundlagen des Programms nahebringt. Wir bearbeiteten die ersten 3 Stufen dieses Projekts und begannen dann mit der Planung unseres eigenen Projekts. 
+Wir entschieden uns für den Kurs "Labyrinth und Biene", da dieser sich Anfänger richtet und ihnen die Grundlagen des Programms nahebringt. 
 
 <img width="1275" alt="Bildschirmfoto 2019-03-22 um 19 17 10" src="https://user-images.githubusercontent.com/42578525/54844543-78cea900-4cd7-11e9-8bd5-40682ad3b930.png">
 
@@ -75,8 +75,24 @@ Wir entschieden uns für den Kurs "Labyrinth und Biene", da dieser sich Anfänge
 
 <img width="816" alt="Bildschirmfoto 2019-03-22 um 19 17 52" src="https://user-images.githubusercontent.com/42578525/54844569-85530180-4cd7-11e9-8420-70e0a5b910c0.png">
 
+ Die Aufgaben waren sehr simpel, da wir lediglich die bereits vorgegeben Blöcke zusammensetzen mussten.  Daher entschiedne wir uns, direkt an unserem eigenen Projekt weiterzuarbeiten.
 
 ## <a name="7"></a> Montag, 04. Februar 2019
+
+Heute haben wir unser Projekt geplant. Unser Ziel war es eine App zu programmieren, die auf dem Thema "Marvel" basieren sollte, da wir beie uns für diese Filme interessieren. Wir haben uns entschieden ein Quiz sowie wenn möglich eine Psychotest nach dem Pronzip "Welcher Marvel-Held bin ich?" zu programmieren. Wir entschieden uns dafür, mit dem Quiz zu beginnen. 
+
+Dazu erstellten wir zunächst ein neues Projekt und gestalteten einen Homescreen für die App. 
+
+<img width="331" alt="Bildschirmfoto 2019-03-22 um 19 25 40" src="https://user-images.githubusercontent.com/42578525/54844920-51c4a700-4cd8-11e9-8c3c-09ff6fd9e3db.png">
+
+Diesen haben wir mit einem "Start"-Button versehen, den wir als Button102 bezeichneten, da wir später das Quiz mit dem Psychotest zusammenfügen wollen und daher verhindern, dass Buttons oder ähnliches gleich namentlich definiert sind. Zudem erstellten wir den Screen "Anleitung", auf dem dem Spieler das Quiz erklärt wird. Dabei gehen wir davon aus, dass der Spieler später zehn Leben haben wird, wobei ihm bei jeder falschen Antwort eines abgezogen wird. Beantwortet er eine Frge richtig taucht ein "gewonnen"-Screen auf, beantwortet er sie falsch, so muss er die Frage so lange beantworten, bis sie richtig ist, bei jedem Verusch wird ihm jedoch ein Leben abgezogen. 
+
+<img width="324" alt="Bildschirmfoto 2019-03-22 um 19 28 02" src="https://user-images.githubusercontent.com/42578525/54845427-93a21d00-4cd9-11e9-880c-7c74ac0ddef8.png">
+
+Um das Quiz zu starten sollte daher der Spieler einen Start-Button drücken könne, der ihn zur Anleitung bringt und von dortaus das Quiz beginnen. Daher fügten wir auch auf dem Anleitung-Screen einen Button (button118) hinzu.
+
+Um nun zu definieren was beim Klicken der Buttons passieren sollte, gaben wir die folgenden Befehle, die wir aus den Blöcken zusammensetzten: 
+<img width="552" alt="Bildschirmfoto 2019-03-22 um 19 37 31" src="https://user-images.githubusercontent.com/42578525/54845573-f85d7780-4cd9-11e9-8675-58c1310b0cf6.png">
 
 
 
