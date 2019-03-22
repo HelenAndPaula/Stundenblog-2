@@ -65,9 +65,18 @@ Nachdem wir letzte Stunde unser Projekt gespeichert hatten, war es uns heute nic
 
 ## <a name="6"></a> Dienstag, 29. Januar 2019
 
-Nachdem wir uns letzte Stunde für das Programm App Lab entschieden haben, haben wir heute angefangen uns detaillierter damit zu befassen. Dazu besuchten wir die Website code.org (https://studio.code.org/s/course4) und guckten uns die verschiedenen Möglichkeiten an. Danach versuchten wir selbst ein der einfachen Projekte zu programmieren, um uns so an das Programm zu gewöhnen.
+Nachdem wir uns letzte Stunde für das Programm App Lab entschieden haben, haben wir heute angefangen uns detaillierter damit zu befassen. Dazu besuchten wir die Website code.org (https://studio.code.org/s/course4) und guckten uns die verschiedenen Möglichkeiten an. Danach versuchten wir selbst eins der vom Kurs vorgegebenen einfachen Projekte zu programmieren, um uns so an das Programm zu gewöhnen.
+
+Wir entschieden uns für den Kurs "Labyrinth und Biene", da dieser sich Anfänger richtet und ihnen die Grundlagen des Programms nahebringt. Wir bearbeiteten die ersten 3 Stufen dieses Projekts und begannen dann mit der Planung unseres eigenen Projekts. 
+
+<img width="1275" alt="Bildschirmfoto 2019-03-22 um 19 17 10" src="https://user-images.githubusercontent.com/42578525/54844543-78cea900-4cd7-11e9-8bd5-40682ad3b930.png">
+
+<img width="1275" alt="Bildschirmfoto 2019-03-22 um 19 17 10" src="https://user-images.githubusercontent.com/42578525/54844555-7e2bf380-4cd7-11e9-9653-02bcb3a7d32e.png">
+
+<img width="816" alt="Bildschirmfoto 2019-03-22 um 19 17 52" src="https://user-images.githubusercontent.com/42578525/54844569-85530180-4cd7-11e9-8420-70e0a5b910c0.png">
 
 
 ## <a name="7"></a> Montag, 04. Februar 2019
 
-Projekt
+
+
