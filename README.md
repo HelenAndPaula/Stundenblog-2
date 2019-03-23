@@ -137,8 +137,9 @@ Die folgenden Screenshots zeigen die beschriebenen Befehle:
 (Befehle für "verloren")
 
 
+
 <img width="565" alt="Bildschirmfoto 2019-03-23 um 22 32 44" src="https://user-images.githubusercontent.com/42578525/54871898-f4098b00-4dbb-11e9-8228-d551c9cc2ead.png">
 (Befehle für "gewonnen")
 
-
+## <a name=""></a> Dienstag, 12. Februar 2019
 
