@@ -100,6 +100,7 @@ Zunächst setzten wir den Home-Screen "quizhome" als Startscreen. Anschließend 
 Anschließend haben wir überlegt, wie die "gewonnen"- bzw. "verloren"-Screens aussehen könnte. Da es bei code.org die Möglichkeit gibt, GIFs als Bild einzufügen, entschieden wir uns zwei zum Thema passende Gifs zu nutzen. Dabei entschieden wir uns für zwei Captain-America-GIFs, bei denen eines positiv und eines negativ ausfällt. Hinzu fügten wir jeweils einen kurzen Text, der sich auf diese bezog. 
 
 <img width="314" alt="Bildschirmfoto 2019-03-23 um 21 35 33" src="https://user-images.githubusercontent.com/42578525/54871401-b6a0ff80-4db3-11e9-92bb-98bb1e744375.png">
+Screen "gewonnen"
 
 <img width="305" alt="Bildschirmfoto 2019-03-23 um 21 35 48" src="https://user-images.githubusercontent.com/42578525/54871403-bdc80d80-4db3-11e9-85bf-c7c113e5cce3.png">
 
