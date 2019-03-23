@@ -158,3 +158,7 @@ Diesen Befehl wiederholten wir so bei jedem Befehl für einen falschen Button. D
 
 Ausgenommen von diesem ist jedentlich der Fall einer richtigen Antwort, da in diesem Fall kein Leben abgezogen werden muss. 
 
+Anschließend haben wir angefangen, die nächsten Frage-Screens zu gestalten, um sie in der nächsten Stunde programmieren zu können. Insgesamt verfügte unser Quiz nun über vier Fragen, wir wollen aber eigentlich mindestens 10 bis 20 haben. 
+
+
+<img width="329" alt="Bildschirmfoto 2019-03-23 um 23 22 36" src="https://user-images.githubusercontent.com/42578525/54872330-a9d7d800-4dc2-11e9-8ae7-448fbd9f2036.png"> <img width="315" alt="Bildschirmfoto 2019-03-23 um 23 22 45" src="https://user-images.githubusercontent.com/42578525/54872332-b0fee600-4dc2-11e9-8d4b-abfd7f02064b.png"> <img width="315" alt="Bildschirmfoto 2019-03-23 um 23 22 53" src="https://user-images.githubusercontent.com/42578525/54872336-b78d5d80-4dc2-11e9-9e49-a38468e39231.png"> <img width="328" alt="Bildschirmfoto 2019-03-23 um 23 23 15" src="https://user-images.githubusercontent.com/42578525/54872337-beb46b80-4dc2-11e9-93b7-814423ec9de5.png">
