@@ -165,3 +165,18 @@ Ausgenommen von diesem ist jedentlich der Fall einer richtigen Antwort, da in di
 Anschließend haben wir angefangen, die nächsten Frage-Screens zu gestalten, um sie in der nächsten Stunde programmieren zu können. Insgesamt verfügte unser Quiz nun über vier Fragen, wir wollen aber eigentlich mindestens 10 bis 20 haben. 
 
 <img width="309" alt="Bildschirmfoto 2019-03-23 um 23 24 47" src="https://user-images.githubusercontent.com/42578525/54872348-e1df1b00-4dc2-11e9-8ae6-8a140ed51e96.png"> <img width="315" alt="Bildschirmfoto 2019-03-23 um 23 22 45" src="https://user-images.githubusercontent.com/42578525/54872332-b0fee600-4dc2-11e9-8d4b-abfd7f02064b.png"> <img width="315" alt="Bildschirmfoto 2019-03-23 um 23 22 53" src="https://user-images.githubusercontent.com/42578525/54872336-b78d5d80-4dc2-11e9-9e49-a38468e39231.png"> <img width="328" alt="Bildschirmfoto 2019-03-23 um 23 23 15" src="https://user-images.githubusercontent.com/42578525/54872337-beb46b80-4dc2-11e9-93b7-814423ec9de5.png">
+
+## <a name=""></a> Montag, 18. Februar 2019
+
+Nachdem wir uns beide seit letzter Woche mit der Idee des Psychotests beschäftigt hatten, haben wir heute entschieden, heute noch unsere bereits gestalteten Screens zu programmieren und dann mit dem Psychotest "Welcher Marvelheld bin ich?" zu beginnen, da wir uns nicht sicher sind, wie zeitaufwendig dieses Projekt wird und wir bus zum Beginn der Abiphase möglichst weit sein wollen und beim Quiz wissen, was wir zu tun haben. 
+
+Zunächst haben wir also das Quiz weiterbarbeitet: Dazu haben wir zu den vorhandenen Screens nach dem oben genannten Vorgehen die Blöcke programmiert, sodass auch hier bei einer falschen Antwort ein Leben abgezogen wurde. Dabei haben wir jede Frage mithilfe des Kommentars "FrageX" voneinander getrennt, um den Überblick zu behalten. Somit ergaben sich folgende und zahlreiche weitere gleich aufgebaute Blöcke :
+
+
+<img width="538" alt="Bildschirmfoto 2019-03-23 um 23 56 59" src="https://user-images.githubusercontent.com/42578525/54872638-67fd6080-4dc7-11e9-92f8-0c99be65eb4c.png">
+<img width="499" alt="Bildschirmfoto 2019-03-23 um 23 57 15" src="https://user-images.githubusercontent.com/42578525/54872639-6b90e780-4dc7-11e9-8086-9ce937b0d84b.png">
+
+Zusätzlich haben wir einen weiteree Frage-SCreen gestaltet und auch direkt programmiert:
+
+
+<img width="320" alt="Bildschirmfoto 2019-03-23 um 23 59 08" src="https://user-images.githubusercontent.com/42578525/54872657-af83ec80-4dc7-11e9-8f0c-c669acdd41e1.png">
