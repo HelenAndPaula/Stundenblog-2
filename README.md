@@ -151,6 +151,10 @@ Anschließend haben wir etwas recherchiert und ausprobiert, bis wir es richtig h
 
 <img width="211" alt="Bildschirmfoto 2019-03-23 um 23 15 06" src="https://user-images.githubusercontent.com/42578525/54872258-83656d00-4dc1-11e9-8945-8bc999d60dc9.png">
 
+Das Programmieren dieses Befehls hat uns recht vile Zeit gekostet, da die Befehlblöcke der Variablen sehr ähnlich sind (s. nächstes Bild) und uns der Unterschied zunächst nicht bewusst war, weshalb die Variabele zunächst nicht richtig erkannt und dann das Reduzieren um 1 nicht funktionierte, sodass wir verschiedene Dinge probierten, bis wir unseren Fehler erkannten und richtig korrigieren konnten. 
+
+<img width="125" alt="Bildschirmfoto 2019-03-23 um 23 26 28" src="https://user-images.githubusercontent.com/42578525/54872393-721d6000-4dc3-11e9-95a3-714832e233da.png">
+
 Diesen Befehl wiederholten wir so bei jedem Befehl für einen falschen Button. Da wir zudem wollten, dass der Spieler auf jedem Screen seine Leben sieht, haben wir auf dem vorhandenen Screen 101 ei zusaätzliches Textfeld eingebaut, welches wir als leben101 definiert haben. Mithilfe des Befehls "setText" haben wir anschließend den Text als die Variable Leben definiert und diesen Befehl hinter jeder Änderung der Variablen durch den Abzug eines Lebens wiederholt. Somit ergab sich der folgende Block: 
 
 
@@ -159,6 +163,5 @@ Diesen Befehl wiederholten wir so bei jedem Befehl für einen falschen Button. D
 Ausgenommen von diesem ist jedentlich der Fall einer richtigen Antwort, da in diesem Fall kein Leben abgezogen werden muss. 
 
 Anschließend haben wir angefangen, die nächsten Frage-Screens zu gestalten, um sie in der nächsten Stunde programmieren zu können. Insgesamt verfügte unser Quiz nun über vier Fragen, wir wollen aber eigentlich mindestens 10 bis 20 haben. 
-
 
 <img width="309" alt="Bildschirmfoto 2019-03-23 um 23 24 47" src="https://user-images.githubusercontent.com/42578525/54872348-e1df1b00-4dc2-11e9-8ae6-8a140ed51e96.png"> <img width="315" alt="Bildschirmfoto 2019-03-23 um 23 22 45" src="https://user-images.githubusercontent.com/42578525/54872332-b0fee600-4dc2-11e9-8d4b-abfd7f02064b.png"> <img width="315" alt="Bildschirmfoto 2019-03-23 um 23 22 53" src="https://user-images.githubusercontent.com/42578525/54872336-b78d5d80-4dc2-11e9-9e49-a38468e39231.png"> <img width="328" alt="Bildschirmfoto 2019-03-23 um 23 23 15" src="https://user-images.githubusercontent.com/42578525/54872337-beb46b80-4dc2-11e9-93b7-814423ec9de5.png">
