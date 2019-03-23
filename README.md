@@ -180,3 +180,17 @@ Zusätzlich haben wir einen weiteree Frage-SCreen gestaltet und auch direkt prog
 
 
 <img width="320" alt="Bildschirmfoto 2019-03-23 um 23 59 08" src="https://user-images.githubusercontent.com/42578525/54872657-af83ec80-4dc7-11e9-8f0c-c669acdd41e1.png">
+
+ Anschließend haben wir angefangen, den Psychotest zu planen und erste mögliche Fragen überlegt, so zum Beispiel "Welche Eigenschaft trifft auf dich zu?" oder "Welche Superkraft hättest du gerne?". Anschließend ahben wir den heutigen Stundeblog geschrieben. 
+ 
+ ## <a name=""></a> Dienstag, 19. Februar 2019
+ 
+ Heute haben wir an dem Psychotest weitergearbeitet. Dazu haben wir in der ersten halben Stunde acht Marvel-Helden herausgesucht und mithilfe unseres eigenen Wissens sowie im Internet, besonders in der Character-Rubrik der offiziellen MArvel-Webside https://www.marvel.com/characters, einige ihrer wichtigste Charakterzüge und Eigenschaften herausgesucht. Wir entschieden uns für die typischen Helden Captain America, Iron Man, Thor, Black Widow, Scarlet Witch und Spiderman sowie für den Antihelden Loki, um die Antwortmöglichkeiten nicht nur positiv gestalten zu können. Als achten entschieden wir uns für Groot aus Guardians of the Galaxy, da wir so jeweils die Antwort "Ich bin Groot" angeben konnten, da dies das einzige ist, was dieser Charakter je sagt. Somit wollten wir auch eine humorvolle Ebene einbrigen. Die Anzahl der Fragen haben wir auf zehn festgelegt, da das die typische Anzahl bei Fragen dieser Art ist. 
+ 
+ Den Psychotest haben wir zunächst in einem separaten Projekt angelegt, um erstmal alles ausprobieren zu könne, bevor wir ihn mit dem Quiz zusammenfügen. Um dieses Zusammenfügen möglich zu machen, haben wir hier darauf geachtet dass die SCreens und Buttons sowie alle Texte nicht identischwie beim Quiz heißen, damit sie später nicht doppelt vorkommen. 
+ 
+ Anschließend haben wir mit dem eingentlichen Projekt angefangen und zunächst wieder einen Homescreen und eine Anleitung gestaltet und diese genau wie auch beim Quit mit Buttons versehen und auch genau so programmiert, dass durch Klicken des ersten Buttons die Anleitung und darauf die erste Frage folgt. 
+ 
+ 
+<img width="311" alt="Bildschirmfoto 2019-03-24 um 00 14 33" src="https://user-images.githubusercontent.com/42578525/54872780-2fab5180-4dca-11e9-81d5-e295c616ca78.png"> <img width="315" alt="Bildschirmfoto 2019-03-24 um 00 15 30" src="https://user-images.githubusercontent.com/42578525/54872782-3639c900-4dca-11e9-9542-9139ebebc94c.png">
+<img width="550" alt="Bildschirmfoto 2019-03-24 um 00 16 03" src="https://user-images.githubusercontent.com/42578525/54872784-3afe7d00-4dca-11e9-97b7-bb92f18ef3e3.png">
