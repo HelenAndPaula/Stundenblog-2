@@ -204,6 +204,5 @@ Anschließend haben wir überlegt, wie wir das Quiz so aufbauen, dass dem Spiele
 
 Die heutige Stunde haben wir vollständig dafür genutzt, den Stundeblog der letzten Stunde zu beenden und uns die Fragen für den Psychsotest sowie die figurenspezifischen Antowrten zu überlegen. Unsere Ergebnisse haben wir notiert und wollen sie morgen als zehn verschiedene Screens mit den diversen Antwortmöglickeiten entwerfen und eventuell auch schon bersuchen mit der Programmiereung richtig anzufangen. 
 
-<img width="604" alt="Bildschirmfoto 2019-03-24 um 00 46 45" src="https://user-images.githubusercontent.com/42578525/54873036-59ff0e00-4dce-11e9-964c-2f3ad0684fa4.png">
-
+<img width="650" alt="Bildschirmfoto 2019-03-24 um 00 48 28" src="https://user-images.githubusercontent.com/42578525/54873043-903c8d80-4dce-11e9-8a9b-99b424392749.png">
 
