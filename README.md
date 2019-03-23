@@ -85,7 +85,7 @@ Dazu erstellten wir zunächst ein neues Projekt und gestalteten einen Homescreen
 
 <img width="331" alt="Bildschirmfoto 2019-03-22 um 19 25 40" src="https://user-images.githubusercontent.com/42578525/54844920-51c4a700-4cd8-11e9-8c3c-09ff6fd9e3db.png">
 
-Diesen haben wir mit einem "Start"-Button versehen, den wir als Button102 bezeichneten, da wir später das Quiz mit dem Psychotest zusammenfügen wollen und daher verhindern, dass Buttons oder ähnliches gleich namentlich definiert sind. Zudem erstellten wir den Screen "Anleitung", auf dem dem Spieler das Quiz erklärt wird. Dabei gehen wir davon aus, dass der Spieler später zehn Leben haben wird, wobei ihm bei jeder falschen Antwort eines abgezogen wird. Beantwortet er eine Frge richtig taucht ein "gewonnen"-Screen auf, beantwortet er sie falsch, so muss er die Frage so lange beantworten, bis sie richtig ist, bei jedem Verusch wird ihm jedoch ein Leben abgezogen. 
+Diesen haben wir mit einem "Start"-Button versehen, den wir als Button102 bezeichneten, da wir später das Quiz mit dem Psychotest zusammenfügen wollen und daher verhindern, dass Buttons oder ähnliches gleich namentlich definiert sind. Zudem erstellten wir den Screen "Anleitung", auf dem dem Spieler das Quiz erklärt wird. Dabei gehen wir davon aus, dass der Spieler später zehn Leben haben wird, wobei ihm bei jeder falschen Antwort eines abgezogen wird. Beantwortet er eine Frge richtig taucht ein "gewonnen"-Screen auf, beantwortet er sie falsch, so muss er die Frage so lange beantworten, bis sie richtig ist, bei jedem Versuch wird ihm jedoch ein Leben abgezogen. Wir entschieden uns hierfür anstatt für ein richtiges Punktesystem, da wir mit den "gewonnen"- bzw. "verloren"-Screens arbeiten wollten und uns dafür entschieden hatten, dass bei einer falschen Antwort die Frage wiederholt wird. Daher wäre es schwierig gewesen, nur dann einen Punkt zu geben, wenn die ANtwort beim ersten Mal richtig war. 
 
 <img width="324" alt="Bildschirmfoto 2019-03-22 um 19 28 02" src="https://user-images.githubusercontent.com/42578525/54845427-93a21d00-4cd9-11e9-880c-7c74ac0ddef8.png">
 
@@ -94,6 +94,14 @@ Um das Quiz zu starten sollte daher der Spieler einen Start-Button drücken kön
 Um nun zu definieren was beim Klicken der Buttons passieren sollte, gaben wir die folgenden Befehle, die wir aus den Blöcken zusammensetzten: 
 
 <img width="552" alt="Bildschirmfoto 2019-03-22 um 19 37 31" src="https://user-images.githubusercontent.com/42578525/54845573-f85d7780-4cd9-11e9-8675-58c1310b0cf6.png">
+
+Zunächst setzten wir den Home-Screen "quizhome" als Startscreen. Anschließend nutzten wir den Block "onEvent", der definiert, dass bei einer bestimmten Aktion ein bestimmtes Event folgt. Wir gaben an, dass wenn button102 geklickt wird, der Screen "Anleitung" erscheint. Auf diesem nutzten wir denselben Befehl, sodass beim Anklicken des vorhandenen Buttons der Screen mit der ersten Frage erscheint.
+
+Anschließend haben wir überlegt, wie die "gewonnen"- bzw. "verloren"-Screens aussehen könnte. Da es bei code.org die Möglichkeit gibt, GIFs als Bild einzufügen, entschieden wir uns zwei zum Thema passende Gifs zu nutzen. Dabei entschieden wir uns für zwei Captain-America-GIFs, bei denen eines positiv und eines negativ ausfällt. Hinzu fügten wir jeweils einen kurzen Text, der sich auf diese bezog. 
+
+<img width="314" alt="Bildschirmfoto 2019-03-23 um 21 35 33" src="https://user-images.githubusercontent.com/42578525/54871401-b6a0ff80-4db3-11e9-92bb-98bb1e744375.png">
+
+<img width="305" alt="Bildschirmfoto 2019-03-23 um 21 35 48" src="https://user-images.githubusercontent.com/42578525/54871403-bdc80d80-4db3-11e9-85bf-c7c113e5cce3.png">
 
 
 
