@@ -92,6 +92,7 @@ Diesen haben wir mit einem "Start"-Button versehen, den wir als Button102 bezeic
 Um das Quiz zu starten sollte daher der Spieler einen Start-Button drücken könne, der ihn zur Anleitung bringt und von dortaus das Quiz beginnen. Daher fügten wir auch auf dem Anleitung-Screen einen Button (button118) hinzu.
 
 Um nun zu definieren was beim Klicken der Buttons passieren sollte, gaben wir die folgenden Befehle, die wir aus den Blöcken zusammensetzten: 
+
 <img width="552" alt="Bildschirmfoto 2019-03-22 um 19 37 31" src="https://user-images.githubusercontent.com/42578525/54845573-f85d7780-4cd9-11e9-8675-58c1310b0cf6.png">
 
 
