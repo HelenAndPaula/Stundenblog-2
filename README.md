@@ -194,3 +194,9 @@ Zusätzlich haben wir einen weiteree Frage-SCreen gestaltet und auch direkt prog
  
 <img width="311" alt="Bildschirmfoto 2019-03-24 um 00 14 33" src="https://user-images.githubusercontent.com/42578525/54872780-2fab5180-4dca-11e9-81d5-e295c616ca78.png"> <img width="315" alt="Bildschirmfoto 2019-03-24 um 00 15 30" src="https://user-images.githubusercontent.com/42578525/54872782-3639c900-4dca-11e9-9542-9139ebebc94c.png">
 <img width="550" alt="Bildschirmfoto 2019-03-24 um 00 16 03" src="https://user-images.githubusercontent.com/42578525/54872784-3afe7d00-4dca-11e9-97b7-bb92f18ef3e3.png">
+
+Anschließend haben wir überlegt, wie wir das Quiz so aufbauen, dass dem Spieler am Ende ein bestimmter Held zugeordnet wird. Dafür haben wir uns entschieden, dass wir bei den meisten Fragen für jeden Helden jeweils genau eine passende Antwort haben und einen Score, der beim Anklicken dieser Antwort um eine heldspezifische Zahl erhöht wird. Somit könnten wir am nde einen Bereich festlegen, der anhand  Antworten und Punktestand den richtigen Held definiert. Hierbei haben wir zudem überlegt, dass es Sinn machen würde, Loki als einzigen "Bösen" die Punktzahl 1 zu geben, da er sich so in seiner Punktezahl von den anderen angrenzt und es nicht so schnell zu einem falschen Ergebnis kommt. SOmit ergaben sich folgende Punkte für die möglichen Ergebnisse: 
+
+
+<img width="186" alt="Bildschirmfoto 2019-03-24 um 00 24 24" src="https://user-images.githubusercontent.com/42578525/54872850-371f2a80-4dcb-11e9-8ca5-3ca61ce06dcd.png">
+
