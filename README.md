@@ -143,3 +143,18 @@ Die folgenden Screenshots zeigen die beschriebenen Befehle:
 
 ## <a name=""></a> Dienstag, 12. Februar 2019
 
+Da wir nun wiisen, wie wir das Quiz an sich erstellen können, haben wir uns heute mit der Variable "Leben" beschäftigt. Hierzu haben wir zunächst nach einiger Recherceh im Internet sowie auf YouTube die Variable "leben" definiert und zunächst auf einen Startwert von 10 gesetzt, da der Spieler diese Anzahl an Leben haben sollte. Wir sind jedoch noch nicht ganz sicher, ob wir die Anzahl noch herabsetzen. Dieser Befehl erfolgt noch vor der ersten Frage. 
+
+<img width="196" alt="Bildschirmfoto 2019-03-23 um 23 12 55" src="https://user-images.githubusercontent.com/42578525/54872231-44cfb280-4dc1-11e9-917b-8ecd41b7f2dc.png">
+
+Anschließend haben wir etwas recherchiert und ausprobiert, bis wir es richtig hinbekommen haben, dass bei jeder falschen Antwort die Anzahl der Leben um eins reduziert wird. Hierzu nutzten wir folgenden Befehl:
+
+<img width="211" alt="Bildschirmfoto 2019-03-23 um 23 15 06" src="https://user-images.githubusercontent.com/42578525/54872258-83656d00-4dc1-11e9-8945-8bc999d60dc9.png">
+
+Diesen Befehl wiederholten wir so bei jedem Befehl für einen falschen Button. Da wir zudem wollten, dass der Spieler auf jedem Screen seine Leben sieht, haben wir auf dem vorhandenen Screen 101 ei zusaätzliches Textfeld eingebaut, welches wir als leben101 definiert haben. Mithilfe des Befehls "setText" haben wir anschließend den Text als die Variable Leben definiert und diesen Befehl hinter jeder Änderung der Variablen durch den Abzug eines Lebens wiederholt. Somit ergab sich der folgende Block: 
+
+
+<img width="544" alt="Bildschirmfoto 2019-03-23 um 23 19 02" src="https://user-images.githubusercontent.com/42578525/54872294-13a3b200-4dc2-11e9-9f58-866889e15ace.png">
+
+Ausgenommen von diesem ist jedentlich der Fall einer richtigen Antwort, da in diesem Fall kein Leben abgezogen werden muss. 
+
