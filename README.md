@@ -200,3 +200,10 @@ Anschließend haben wir überlegt, wie wir das Quiz so aufbauen, dass dem Spiele
 
 <img width="186" alt="Bildschirmfoto 2019-03-24 um 00 24 24" src="https://user-images.githubusercontent.com/42578525/54872850-371f2a80-4dcb-11e9-8ca5-3ca61ce06dcd.png">
 
+ ## <a name=""></a> Montag, 25. Februar 2019
+
+Die heutige Stunde haben wir vollständig dafür genutzt, den Stundeblog der letzten Stunde zu beenden und uns die Fragen für den Psychsotest sowie die figurenspezifischen Antowrten zu überlegen. Unsere Ergebnisse haben wir notiert und wollen sie morgen als zehn verschiedene Screens mit den diversen Antwortmöglickeiten entwerfen und eventuell auch schon bersuchen mit der Programmiereung richtig anzufangen. 
+
+<img width="604" alt="Bildschirmfoto 2019-03-24 um 00 46 45" src="https://user-images.githubusercontent.com/42578525/54873036-59ff0e00-4dce-11e9-964c-2f3ad0684fa4.png">
+
+
