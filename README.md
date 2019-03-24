@@ -99,6 +99,10 @@ Diesen haben wir mit einem "Start"-Button versehen, den wir als Button102 bezeic
 
 <img width="324" alt="Bildschirmfoto 2019-03-22 um 19 28 02" src="https://user-images.githubusercontent.com/42578525/54845427-93a21d00-4cd9-11e9-880c-7c74ac0ddef8.png">
 
+Um die Screens sowie die Buttons etc. zu entwerfen, haben wir den "Design"-Bereich von AppLab verwendet, der eine Vielzahl von Möglichkeiten gab: 
+
+<img width="271" alt="Bildschirmfoto 2019-03-24 um 22 27 51" src="https://user-images.githubusercontent.com/42578525/54886093-47dfa700-4e84-11e9-981b-798d82e8dfa6.png">
+
 ## <a name="7"></a> Dienstag, 05. Februar 2019
 
 Da gestern der Unterricht aufgrund der Europaschul-Feier ausgefallen ist, haben wir erst an der Idee von Montag weiter gearbeitet. Um das Quiz zu starten sollte der Spieler einen Start-Button drücken könne, der ihn zur Anleitung bringt und von dortaus das Quiz beginnen. Daher fügten wir auch auf dem Anleitung-Screen einen Button (button118) hinzu.
@@ -206,3 +210,12 @@ Die heutige Stunde haben wir vollständig dafür genutzt, den Stundeblog der let
 
 <img width="650" alt="Bildschirmfoto 2019-03-24 um 00 48 28" src="https://user-images.githubusercontent.com/42578525/54873043-903c8d80-4dce-11e9-8a9b-99b424392749.png">
 
+ ## <a name=""></a> Dienstag, 26. Februar 2019
+ 
+Heute haben wir anhand der gestern erstellten Fragen und Antowrten die zehn Frage-Screens erstellt. Dazu haben wir die zehn Screens screen1 bis screen10 jeweils mit einem Textfeld mit der Frage sowie verschieden vielen Buttons (meistens 8, bei zwei Fragen weniger) entworfen. Dies hat fast die ganze Doppelstunde gedauert, da der Computer mehrfach abgestürzt ist, aber am Ene hatten wir folgende zehn SCreens erstellt:
+ 
+ 
+<img width="317" alt="Bildschirmfoto 2019-03-24 um 22 05 32" src="https://user-images.githubusercontent.com/42578525/54886118-8ffec980-4e84-11e9-904b-e22fcad9d5c2.png"><img width="314" alt="Bildschirmfoto 2019-03-24 um 22 05 55" src="https://user-images.githubusercontent.com/42578525/54886119-8ffec980-4e84-11e9-8164-7c8bd9e5ba91.png"><img width="318" alt="Bildschirmfoto 2019-03-24 um 22 06 05" src="https://user-images.githubusercontent.com/42578525/54886120-8ffec980-4e84-11e9-9fa5-0f324a5c05fd.png"><img width="320" alt="Bildschirmfoto 2019-03-24 um 22 06 13" src="https://user-images.githubusercontent.com/42578525/54886121-90976000-4e84-11e9-83db-f50b67f1a3ca.png"><img width="321" alt="Bildschirmfoto 2019-03-24 um 22 08 04" src="https://user-images.githubusercontent.com/42578525/54886122-90976000-4e84-11e9-8ad8-bf2dde9c3b4d.png"><img width="314" alt="Bildschirmfoto 2019-03-24 um 22 08 14" src="https://user-images.githubusercontent.com/42578525/54886126-a2790300-4e84-11e9-9ea8-ec1a6a80a5b1.png"><img width="314" alt="Bildschirmfoto 2019-03-24 um 22 08 29" src="https://user-images.githubusercontent.com/42578525/54886132-a9a01100-4e84-11e9-95f3-6d4809b7dd62.png"><img width="317" alt="Bildschirmfoto 2019-03-24 um 22 21 22" src="https://user-images.githubusercontent.com/42578525/54886133-aa38a780-4e84-11e9-8769-3a793d6f5cea.png"><img width="312" alt="Bildschirmfoto 2019-03-24 um 22 21 33" src="https://user-images.githubusercontent.com/42578525/54886134-aa38a780-4e84-11e9-80a7-3a191d988d46.png"><img width="311" alt="Bildschirmfoto 2019-03-24 um 22 21 44" src="https://user-images.githubusercontent.com/42578525/54886127-a2790300-4e84-11e9-9f69-edf8ba8e14ad.png">
+
+ 
+ 
