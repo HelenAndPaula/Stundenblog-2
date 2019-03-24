@@ -22,19 +22,21 @@
 
 [10.   Dienstag, 12. Februar 2019](#10)
 
-[11.   Dienstag, 19. Februar 2019](#11)
+[11.   Montag, 18. Februar 2019](#11)
 
-[12.   Montag, 25. Februar 2019](#12)
+[12.   Dienstag, 19. Februar 2019](#12)
 
-[13.   Dienstag, 26. Februar 2019](#13)
+[13.   Montag, 25. Februar 2019](#13)
 
-[14.   Montag, 04. März 2019](#14)
+[14.   Dienstag, 26. Februar 2019](#14)
 
-[15.   Dienstag, 05. März 2019](#15)
+[15.   Montag, 04. März 2019](#15)
 
-[16.   Montag, 18. März 2019](#16)
+[16.   Dienstag, 05. März 2019](#16)
 
-[17.   Dienstag, 19. März 2019](#17)
+[17.   Montag, 18. März 2019](#17)
+
+[18.   Dienstag, 19. März 2019](#18)
 
 
 ## *Stundenblog*
@@ -73,7 +75,7 @@ Nachdem wir letzte Stunde unser Projekt gespeichert hatten, war es uns heute nic
 
 ![fehler snap](https://user-images.githubusercontent.com/42578525/53813956-059b0800-3f5f-11e9-9cbe-655f2f09c389.PNG)
 
-## <a name="5"></a> Montag, 28. Januar 2019
+## <a name="6"></a> Montag, 28. Januar 2019
 
 Nachdem wir uns letzte Stunde für das Programm App Lab entschieden haben, haben wir heute angefangen uns detaillierter damit zu befassen. Dazu besuchten wir die Website code.org (https://studio.code.org/s/course4) und guckten uns die verschiedenen Möglichkeiten an. Danach versuchten wir selbst eins der vom Kurs vorgegebenen einfachen Projekte zu programmieren, um uns so an das Programm zu gewöhnen.
 
@@ -87,7 +89,7 @@ Wir entschieden uns für den Kurs "Labyrinth und Biene", da dieser sich Anfänge
 
  Die Aufgaben waren sehr simpel, da wir lediglich die bereits vorgegeben Blöcke zusammensetzen mussten.  Daher entschiedne wir uns, direkt an unserem eigenen Projekt weiterzuarbeiten.
 
-## <a name="6"></a> Dienstag, 29. Januar 2019
+## <a name="7"></a> Dienstag, 29. Januar 2019
 
 Heute haben wir unser Projekt geplant. Unser Ziel war es eine App zu programmieren, die auf dem Thema "Marvel" basieren sollte, da wir beie uns für diese Filme interessieren. Wir haben uns entschieden ein Quiz sowie wenn möglich eine Psychotest nach dem Pronzip "Welcher Marvel-Held bin ich?" zu programmieren. Wir entschieden uns dafür, mit dem Quiz zu beginnen. 
 
@@ -103,7 +105,7 @@ Um die Screens sowie die Buttons etc. zu entwerfen, haben wir den "Design"-Berei
 
 <img width="271" alt="Bildschirmfoto 2019-03-24 um 22 27 51" src="https://user-images.githubusercontent.com/42578525/54886093-47dfa700-4e84-11e9-981b-798d82e8dfa6.png">
 
-## <a name="7"></a> Dienstag, 05. Februar 2019
+## <a name="8"></a> Dienstag, 05. Februar 2019
 
 Da gestern der Unterricht aufgrund der Europaschul-Feier ausgefallen ist, haben wir erst an der Idee von Montag weiter gearbeitet. Um das Quiz zu starten sollte der Spieler einen Start-Button drücken könne, der ihn zur Anleitung bringt und von dortaus das Quiz beginnen. Daher fügten wir auch auf dem Anleitung-Screen einen Button (button118) hinzu.
 
@@ -124,7 +126,7 @@ Auf beiden Screen ist ein Button (weiter/zurück) der den Spieler entweder zurü
 
 Danach haben wir angefangen, uns Fragen für das Quiz zu überlgen und diese zu notieren. Gegen Ende der Doppelstunde haben wir dann den Stundeblog weiter geschrieben. 
 
-## <a name=""></a> Montag, 11. Februar 2019
+## <a name="9"></a> Montag, 11. Februar 2019
 
 Heute haben wir damit angefangen, die Frage-Screen zu programmieren. Dabei haben wir uns dafür entschieden, diese immer (fast) gleich aufzubauen: Zunächst sind alle Screens in der gesammten App schwarz mit weißer SChrift, da dies unserer Meinung gut zu Marvel passt. Die Frage-Screens sollen  sich alle aus der Frage und vier Antwortmöglichkeiten zusammensetzten, wobei die Screens zum Teil durch ein Bild ergänzt sind. Heute haben wir zunächst den ersten Screen wiefolgt gestalltet: 
 
@@ -145,7 +147,7 @@ Die folgenden Screenshots zeigen die beschriebenen Befehle:
 <img width="565" alt="Bildschirmfoto 2019-03-23 um 22 32 44" src="https://user-images.githubusercontent.com/42578525/54871898-f4098b00-4dbb-11e9-8228-d551c9cc2ead.png">
 (Befehle für "gewonnen")
 
-## <a name=""></a> Dienstag, 12. Februar 2019
+## <a name="10"></a> Dienstag, 12. Februar 2019
 
 Da wir nun wiisen, wie wir das Quiz an sich erstellen können, haben wir uns heute mit der Variable "Leben" beschäftigt. Hierzu haben wir zunächst nach einiger Recherceh im Internet sowie auf YouTube die Variable "leben" definiert und zunächst auf einen Startwert von 10 gesetzt, da der Spieler diese Anzahl an Leben haben sollte. Wir sind jedoch noch nicht ganz sicher, ob wir die Anzahl noch herabsetzen. Dieser Befehl erfolgt noch vor der ersten Frage. 
 
@@ -170,7 +172,9 @@ Anschließend haben wir angefangen, die nächsten Frage-Screens zu gestalten, um
 
 <img width="309" alt="Bildschirmfoto 2019-03-23 um 23 24 47" src="https://user-images.githubusercontent.com/42578525/54872348-e1df1b00-4dc2-11e9-8ae6-8a140ed51e96.png"> <img width="315" alt="Bildschirmfoto 2019-03-23 um 23 22 45" src="https://user-images.githubusercontent.com/42578525/54872332-b0fee600-4dc2-11e9-8d4b-abfd7f02064b.png"> <img width="315" alt="Bildschirmfoto 2019-03-23 um 23 22 53" src="https://user-images.githubusercontent.com/42578525/54872336-b78d5d80-4dc2-11e9-9e49-a38468e39231.png"> <img width="328" alt="Bildschirmfoto 2019-03-23 um 23 23 15" src="https://user-images.githubusercontent.com/42578525/54872337-beb46b80-4dc2-11e9-93b7-814423ec9de5.png">
 
-## <a name=""></a> Montag, 18. Februar 2019
+## <a name="11"></a> Montag, 18. Februar 2019
+
+Da heute der Informatikunterricht ausgefallen ist, haben wir in unseren Freistunden gemiensam an dem Projekt weitergearbeitet. 
 
 Nachdem wir uns beide seit letzter Woche mit der Idee des Psychotests beschäftigt hatten, haben wir heute entschieden, heute noch unsere bereits gestalteten Screens zu programmieren und dann mit dem Psychotest "Welcher Marvelheld bin ich?" zu beginnen, da wir uns nicht sicher sind, wie zeitaufwendig dieses Projekt wird und wir bus zum Beginn der Abiphase möglichst weit sein wollen und beim Quiz wissen, was wir zu tun haben. 
 
@@ -187,7 +191,7 @@ Zusätzlich haben wir einen weiteree Frage-SCreen gestaltet und auch direkt prog
 
  Anschließend haben wir angefangen, den Psychotest zu planen und erste mögliche Fragen überlegt, so zum Beispiel "Welche Eigenschaft trifft auf dich zu?" oder "Welche Superkraft hättest du gerne?". Anschließend ahben wir den heutigen Stundeblog geschrieben. 
  
- ## <a name=""></a> Dienstag, 19. Februar 2019
+ ## <a name="12"></a> Dienstag, 19. Februar 2019
  
  Heute haben wir an dem Psychotest weitergearbeitet. Dazu haben wir in der ersten halben Stunde acht Marvel-Helden herausgesucht und mithilfe unseres eigenen Wissens sowie im Internet, besonders in der Character-Rubrik der offiziellen MArvel-Webside https://www.marvel.com/characters, einige ihrer wichtigste Charakterzüge und Eigenschaften herausgesucht. Wir entschieden uns für die typischen Helden Captain America, Iron Man, Thor, Black Widow, Scarlet Witch und Spiderman sowie für den Antihelden Loki, um die Antwortmöglichkeiten nicht nur positiv gestalten zu können. Als achten entschieden wir uns für Groot aus Guardians of the Galaxy, da wir so jeweils die Antwort "Ich bin Groot" angeben konnten, da dies das einzige ist, was dieser Charakter je sagt. Somit wollten wir auch eine humorvolle Ebene einbrigen. Die Anzahl der Fragen haben wir auf zehn festgelegt, da das die typische Anzahl bei Fragen dieser Art ist. 
  
@@ -204,19 +208,19 @@ Anschließend haben wir überlegt, wie wir das Quiz so aufbauen, dass dem Spiele
 
 <img width="186" alt="Bildschirmfoto 2019-03-24 um 00 24 24" src="https://user-images.githubusercontent.com/42578525/54872850-371f2a80-4dcb-11e9-8ca5-3ca61ce06dcd.png">
 
- ## <a name=""></a> Montag, 25. Februar 2019
+ ## <a name="13"></a> Montag, 25. Februar 2019
 
 Die heutige Stunde haben wir vollständig dafür genutzt, den Stundeblog der letzten Stunde zu beenden und uns die Fragen für den Psychsotest sowie die figurenspezifischen Antowrten zu überlegen. Unsere Ergebnisse haben wir notiert und wollen sie morgen als zehn verschiedene Screens mit den diversen Antwortmöglickeiten entwerfen und eventuell auch schon bersuchen mit der Programmiereung richtig anzufangen. 
 
 <img width="650" alt="Bildschirmfoto 2019-03-24 um 00 48 28" src="https://user-images.githubusercontent.com/42578525/54873043-903c8d80-4dce-11e9-8a9b-99b424392749.png">
 
- ## <a name=""></a> Dienstag, 26. Februar 2019
+ ## <a name="">14</a> Dienstag, 26. Februar 2019
  
 Heute haben wir anhand der gestern erstellten Fragen und Antowrten die zehn Frage-Screens erstellt. Dazu haben wir die zehn Screens screen1 bis screen10 jeweils mit einem Textfeld mit der Frage sowie verschieden vielen Buttons (meistens 8, bei zwei Fragen weniger) entworfen. Dies hat fast die ganze Doppelstunde gedauert, da der Computer mehrfach abgestürzt ist, aber am Ene hatten wir folgende zehn SCreens erstellt:
  
 <img width="317" alt="Bildschirmfoto 2019-03-24 um 22 05 32" src="https://user-images.githubusercontent.com/42578525/54886118-8ffec980-4e84-11e9-904b-e22fcad9d5c2.png"><img width="314" alt="Bildschirmfoto 2019-03-24 um 22 05 55" src="https://user-images.githubusercontent.com/42578525/54886119-8ffec980-4e84-11e9-8164-7c8bd9e5ba91.png"><img width="318" alt="Bildschirmfoto 2019-03-24 um 22 06 05" src="https://user-images.githubusercontent.com/42578525/54886120-8ffec980-4e84-11e9-9fa5-0f324a5c05fd.png"><img width="320" alt="Bildschirmfoto 2019-03-24 um 22 06 13" src="https://user-images.githubusercontent.com/42578525/54886121-90976000-4e84-11e9-83db-f50b67f1a3ca.png"><img width="321" alt="Bildschirmfoto 2019-03-24 um 22 08 04" src="https://user-images.githubusercontent.com/42578525/54886122-90976000-4e84-11e9-8ad8-bf2dde9c3b4d.png"><img width="314" alt="Bildschirmfoto 2019-03-24 um 22 08 14" src="https://user-images.githubusercontent.com/42578525/54886126-a2790300-4e84-11e9-9ea8-ec1a6a80a5b1.png"><img width="314" alt="Bildschirmfoto 2019-03-24 um 22 08 29" src="https://user-images.githubusercontent.com/42578525/54886132-a9a01100-4e84-11e9-95f3-6d4809b7dd62.png"><img width="317" alt="Bildschirmfoto 2019-03-24 um 22 21 22" src="https://user-images.githubusercontent.com/42578525/54886133-aa38a780-4e84-11e9-8769-3a793d6f5cea.png"><img width="312" alt="Bildschirmfoto 2019-03-24 um 22 21 33" src="https://user-images.githubusercontent.com/42578525/54886134-aa38a780-4e84-11e9-80a7-3a191d988d46.png"><img width="311" alt="Bildschirmfoto 2019-03-24 um 22 21 44" src="https://user-images.githubusercontent.com/42578525/54886127-a2790300-4e84-11e9-9f69-edf8ba8e14ad.png">
 
-  ## <a name=""></a> Montag, 04. März 2019
+  ## <a name="15"></a> Montag, 04. März 2019
   
   Heute haben wir mit dem eigentlichen Programmieren begonnen. Dafür haben wir zunächst etwa zwanzig Minuten herumprobiert. Da unser Test darauf basiert, dass für jeden Antwortmöglichkeit verschieden viele Punkte auf einen nicht sichtbaren Score gerechnet werden, haben wir zunächste Die Variable "score" erstellt und gleich 0 gesetzt (var score = 0;. Danach haben wir für jeden der acht Buttons auf Screen1 einen wie folgt aufgebauten Block programmiert: 
   
@@ -227,3 +231,10 @@ Dieser definiert, dass beim Anklicken des Buttons, der in deisem Fall eine eigen
 Im restlichen Verlauf der Stunde haben wir so den kompletten Screen1 programmiert. 
  
 <img width="524" alt="Bildschirmfoto 2019-03-24 um 22 46 31" src="https://user-images.githubusercontent.com/42578525/54886285-c63d4880-4e86-11e9-9155-620b2327fde7.png"><img width="552" alt="Bildschirmfoto 2019-03-24 um 22 46 41" src="https://user-images.githubusercontent.com/42578525/54886289-cc332980-4e86-11e9-912d-bc4ce7886410.png"><img width="525" alt="Bildschirmfoto 2019-03-24 um 22 46 49" src="https://user-images.githubusercontent.com/42578525/54886290-cccbc000-4e86-11e9-9371-b4affacc5833.png">
+
+  ## <a name="16"></a> Montag, 04. März 2019
+
+Die gesamte heutige Doppelstunde haben wir genutzt um nach dem gestern geschilderten Verfahren die Screens 2 bis 8 zu programmieren. 
+
+  ## <a name="17"></a> Montag, 18. März 2019
+
