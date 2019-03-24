@@ -214,7 +214,7 @@ Die heutige Stunde haben wir vollständig dafür genutzt, den Stundeblog der let
 
 <img width="650" alt="Bildschirmfoto 2019-03-24 um 00 48 28" src="https://user-images.githubusercontent.com/42578525/54873043-903c8d80-4dce-11e9-8a9b-99b424392749.png">
 
- ## <a name="">14</a> Dienstag, 26. Februar 2019
+ ## <a name="14"></a> Dienstag, 26. Februar 2019
  
 Heute haben wir anhand der gestern erstellten Fragen und Antowrten die zehn Frage-Screens erstellt. Dazu haben wir die zehn Screens screen1 bis screen10 jeweils mit einem Textfeld mit der Frage sowie verschieden vielen Buttons (meistens 8, bei zwei Fragen weniger) entworfen. Dies hat fast die ganze Doppelstunde gedauert, da der Computer mehrfach abgestürzt ist, aber am Ene hatten wir folgende zehn SCreens erstellt:
  
