@@ -237,4 +237,7 @@ Im restlichen Verlauf der Stunde haben wir so den kompletten Screen1 programmier
 Die gesamte heutige Doppelstunde haben wir genutzt um nach dem gestern geschilderten Verfahren die Screens 2 bis 8 zu programmieren. 
 
   ## <a name="17"></a> Montag, 18. März 2019
-
+  
+  Seit lezter Stunde haben wir zuhause die letzten beiden Fragescreens programmiert (s.oben) und zudem die acht verschiedenen möglichen Ergebnisse als Screens festgehalten. Hierzu haben wir mithilfe des "Design"-Bereichs von AppLab acht schwarze Screens erstellt und jeweils mit dem Namen der Figur, einem Bild und teilweise bereits einem kurzen Text versehen, den wir am Ende bei allen haben wollen. 
+  
+![black widow screen](https://user-images.githubusercontent.com/42578525/54910985-bad13800-4eed-11e9-9c67-c4c3e3161a06.PNG) ![cap screen](https://user-images.githubusercontent.com/42578525/54911001-bf95ec00-4eed-11e9-8867-0f6b2152c0ad.PNG) ![loki screen](https://user-images.githubusercontent.com/42578525/54911008-c3297300-4eed-11e9-8410-0cb62ea6947a.PNG) ![scarlett screen](https://user-images.githubusercontent.com/42578525/54911009-c3297300-4eed-11e9-9871-f058de4bc55e.PNG) ![screen groot](https://user-images.githubusercontent.com/42578525/54911010-c3297300-4eed-11e9-9b3d-654c67a743a2.PNG) ![screen thor](https://user-images.githubusercontent.com/42578525/54911013-c45aa000-4eed-11e9-858f-fe4d336f5dde.PNG) ![spiderman screen](https://user-images.githubusercontent.com/42578525/54911014-c4f33680-4eed-11e9-871b-c432a60f1d2f.PNG)
