@@ -243,13 +243,26 @@ Die gesamte heutige Doppelstunde haben wir genutzt um nach dem gestern geschilde
 ![black widow screen](https://user-images.githubusercontent.com/42578525/54910985-bad13800-4eed-11e9-9c67-c4c3e3161a06.PNG) ![cap screen](https://user-images.githubusercontent.com/42578525/54911001-bf95ec00-4eed-11e9-8867-0f6b2152c0ad.PNG) ![loki screen](https://user-images.githubusercontent.com/42578525/54911008-c3297300-4eed-11e9-8410-0cb62ea6947a.PNG) ![scarlett screen](https://user-images.githubusercontent.com/42578525/54911009-c3297300-4eed-11e9-9871-f058de4bc55e.PNG) ![screen groot](https://user-images.githubusercontent.com/42578525/54911010-c3297300-4eed-11e9-9b3d-654c67a743a2.PNG) ![screen thor](https://user-images.githubusercontent.com/42578525/54911013-c45aa000-4eed-11e9-858f-fe4d336f5dde.PNG) ![spiderman screen](https://user-images.githubusercontent.com/42578525/54911014-c4f33680-4eed-11e9-871b-c432a60f1d2f.PNG) ![screen iron](https://user-images.githubusercontent.com/42578525/54911073-ea804000-4eed-11e9-94bd-fc2c32879adf.PNG)
 
 
-  ## <a name="17"></a> Dienstag, 19. März 2019
-  
-  Nachdem wir gestern die Fragescreens erstellt haben, haben wir heute angefangen, die Auswertung zu programmieren. Dazu haben wir ausgerechnet, wie viele Punkte man ungefähr bräuchte, um die jeweilige Person als Ergebnis zu erreichen. Dazu haben wir und zunächst an den Werten orientiert, die herauskommen würden, wenn man mit jeder Antwort die Antwort der jeweiligen Figur wählen würde ("Punktzahl des Helden" x 10) und haben mithilfe des "if"-Blocks folgenden Befehlprogrammiert:
+  ## <a name="18"></a> Dienstag, 19. März 2019
+ 
+ Da heute der NAchmittagsunterricht ausgefallen ist, haben wir zuhasue an unserem Projekt weitergearbeitet.
+ 
+ Nachdem wir gestern die Fragescreens erstellt haben, haben wir heute angefangen, die Auswertung zu programmieren. Dazu haben wir ausgerechnet, wie viele Punkte man ungefähr bräuchte, um die jeweilige Person als Ergebnis zu erreichen. Dazu haben wir und zunächst an den Werten orientiert, die herauskommen würden, wenn man mit jeder Antwort die Antwort der jeweiligen Figur wählen würde ("Punktzahl des Helden" x 10) und haben mithilfe des "if"-Blocks folgenden Befehlprogrammiert:
   
   ![screen 123](https://user-images.githubusercontent.com/42578525/55005258-f34f3f80-4fdb-11e9-98e3-8881a8b151a3.PNG)
   
   Dieser gibt an,dass wenn der Score größer und gleich eines gegeben Wertes ist, ein bestimmter Screen erscheint. Da wir auf jedem Screen ein Textfeld ("ergebnis") eingefügt haben, konnten wir die verschiedenen Punktedurchschnitte durch ausprobieren herausfinden. Da es mehrere Screens mit nicht genau acht zutreffenden Antworten gibt, mussten wir die Ergebniswerte anpassen. Dabeiergaben sich folgende Werte, mit denen im Durchschnitt fast immer der richtige Held herauskommt. 
   
 ![ergebnisse1](https://user-images.githubusercontent.com/42578525/55005853-0adaf800-4fdd-11e9-92a6-ac054b06872b.PNG)
+
 ![ergenisse2](https://user-images.githubusercontent.com/42578525/55005873-13cbc980-4fdd-11e9-90ff-2158d3f036f2.PNG)
+
+Da wir das ganze ca. 30 Mal ausprobieren mussten, haben wir die gesamte Doppelstunde damit verbracht, die Werte zu ermitteln und in den Befehlen festgehalten.
+
+  ## <a name="18"></a> Montag, 25. März 2019
+  
+Heute haben wir aufgrund der morigigen Abgabe des Stundeblogs den Blog weiterbearbeitet und die Beiträge von letztem Montag und Dienstag geschrieben, da wir diese zunächst nur in Stichpunkten festgehalten hatten , um die Zeit effektiv für unser Projekt zu nutzen. Daher haben wir diese heute ausgeschrieben und zudem noch weitere Screenshots eingefügt, da wir zuvor mehrfach das Problem gehabt hatten, dass wir unsere Änderungen am GitHub-Blog nicht speichern konnten. 
+  
+  ## <a name="18"></a> Dienstag, 26. März 2019
+
+Heute haben wir weiter an dem zweiten Teil unserer App gearbeitet: Das Quiz. Zunächst habne wir uns weitere Fragen ausgedacht und Antwortmöglichkeiten programmiert. Zudem haben wir den Psychotest und das Quiz zusammengeführt, sodass sich beide Projekte jetzt in einer App befinden. Zuletzt haben wir noch ein wenig an dem Stundenblog gearbeitet, den wir heute abgeben werden.
