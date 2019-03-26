@@ -57,11 +57,12 @@ Anschließend haben wir uns das das Curriculum von "The Beauty and Joy of Contro
 Nachdem wir in der letzten Stunde aufgrund der Computerprobleme nicht besonders effektiv arbeiten konnten, haben wir uns heutre weiter mit dem Curriculum von Snap befasst, um eine Idee für unser Projekt zu finden. Erst haben wir überlegt ein Tic-Tac-Toe-Spiel zu programmieren, jedoch war das Projekt als Ganzjahresprojekt gekennzeichnet, sodass wir uns dagegen entschieden.Eine weitere Idee war eine "Super-8-Zukunfstsprognose", bei der der Spieler Fragen stellt, die die Kugel bzw. eine von uns gewählte Figur beantworten sollte. Wir entschiede uns, in der nächsten Stunde mit dieser Idee weiter zu arbeiten. 
 
 ## <a name="3"></a> Dienstag, 15. Januar 2019
+
 Heute waren wir leider beide krank und konnten somit nicht an dem Projekt weiterarbeiten.
 
 
 ## <a name="4"></a> Montag, 21. Januar 2019
-Da wir letzten Diesnatg beide krank waren, haben wir uns heute weiter mit der "Super-8-Zukunfstsprognose" befasst. Dazu hatten wir beide bereits im Voraus recherchiert und uns mögliche Antworten überlegt, die wir nun als Liste in Snap! anlegten. 
+Da wir letzten Dienstag beide krank waren, haben wir uns heute weiter mit der "Super-8-Zukunftsprognose" befasst. Dazu hatten wir beide bereits im Voraus recherchiert und uns mögliche Antworten überlegt, die wir nun als Liste in Snap! anlegten. 
 
 ![bild antowrten arthur](https://user-images.githubusercontent.com/42578525/53812626-3168be80-3f5c-11e9-8742-c7654c721947.PNG)
 
@@ -91,11 +92,11 @@ Wir entschieden uns für den Kurs "Labyrinth und Biene", da dieser sich Anfänge
 
 <img width="816" alt="Bildschirmfoto 2019-03-22 um 19 17 52" src="https://user-images.githubusercontent.com/42578525/54844569-85530180-4cd7-11e9-8420-70e0a5b910c0.png">
 
- Die Aufgaben waren sehr simpel, da wir lediglich die bereits vorgegeben Blöcke zusammensetzen mussten.  Daher entschiedne wir uns, direkt an unserem eigenen Projekt weiterzuarbeiten.
+ Die Aufgaben waren sehr simpel, da wir lediglich die bereits vorgegeben Blöcke zusammensetzen mussten.  Daher entschieden wir uns, direkt an unserem eigenen Projekt weiterzuarbeiten.
 
 ## <a name="7"></a> Dienstag, 29. Januar 2019
 
-Heute haben wir unser Projekt geplant. Unser Ziel war es eine App zu programmieren, die auf dem Thema "Marvel" basieren sollte, da wir beie uns für diese Filme interessieren. Wir haben uns entschieden ein Quiz sowie wenn möglich eine Psychotest nach dem Pronzip "Welcher Marvel-Held bin ich?" zu programmieren. Wir entschieden uns dafür, mit dem Quiz zu beginnen. 
+Heute haben wir unser Projekt geplant. Unser Ziel war es eine App zu programmieren, die auf dem Thema "Marvel" basieren sollte, da wir uns beide für diese Filme interessieren. Wir haben uns entschieden ein Quiz sowie wenn möglich eine Psychotest nach dem Pronzip "Welcher Marvel-Held bin ich?" zu programmieren. Wir entschieden uns dafür, mit dem Quiz zu beginnen. 
 
 Dazu erstellten wir zunächst ein neues Projekt und gestalteten einen Homescreen für die App. 
 
