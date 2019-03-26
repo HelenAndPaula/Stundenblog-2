@@ -1,8 +1,8 @@
 # Stundenblog - MARVEL 
 ## 2. Halbjahr
 
-## *Inhaltsverzeichnis* 
-
+<details><summary>## *Inhaltsverzeichnis*  ME</summary>
+<p>
 [1.   Dienstag, 08. Januar 2019](#1)  
 
 [2.   Montag, 14. Januar 2019](#2)
@@ -44,11 +44,6 @@
 [20.   Dienstag, 26. März 2019](#20)
 
 [21.   Fazit](#21)
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks! 
 </details>
   
 
