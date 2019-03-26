@@ -3,7 +3,7 @@
 
 ## *Inhaltsverzeichnis*
 
-<details><summary>Anzeigen</summary>
+<details><summary>anzeigen</summary>
 <p>
  
 [1.   Dienstag, 08. Januar 2019](#1)  
