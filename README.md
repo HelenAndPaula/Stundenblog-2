@@ -119,9 +119,9 @@ Um die Screens sowie die Buttons etc. zu entwerfen, haben wir den "Design"-Berei
 
 ## <a name="8"></a> Dienstag, 05. Februar 2019
 
-Da gestern der Unterricht aufgrund der Europaschul-Feier ausgefallen ist, haben wir erst heute an der Idee von Montag weiter gearbeitet. Um das Quiz zu starten sollte der Spieler einen Start-Button drücken könne, der ihn zur Anleitung bringt und von dort aus das Quiz beginnen. Daher fügten wir auch auf dem Anleitung-Screen einen Button (button118) hinzu.
+Da gestern der Unterricht aufgrund der Europaschul-Feier ausgefallen ist, haben wir erst heute an der Idee von Montag weiter gearbeitet. Um das Quiz zu starten sollte der Spieler einen Start-Button drücken können, der ihn zur Anleitung bringt und von dort aus das Quiz beginnen. Daher fügten wir auch auf dem Anleitung-Screen einen Button (button118) hinzu.
 
-Um nun zu definieren was beim Klicken der Buttons passieren sollte, gaben wir die folgenden Befehle, die wir aus den Blöcken zusammensetzten: 
+Um nun zu definieren, was beim Klicken der Buttons passieren sollte, gaben wir die folgenden Befehle, die wir aus den Blöcken zusammensetzten: 
 
 <img width="552" alt="Bildschirmfoto 2019-03-22 um 19 37 31" src="https://user-images.githubusercontent.com/42578525/54845573-f85d7780-4cd9-11e9-8675-58c1310b0cf6.png">
 
@@ -134,7 +134,7 @@ Anschließend haben wir überlegt, wie die "gewonnen"- bzw. "verloren"-Screens a
 
 <img width="305" alt="Bildschirmfoto 2019-03-23 um 21 35 48" src="https://user-images.githubusercontent.com/42578525/54871403-bdc80d80-4db3-11e9-85bf-c7c113e5cce3.png"> 
 
-Auf beiden Screen ist ein Button (weiter/zurück) der den Spieler entweder zurück zur Frage oder zur nächsten Frage bringt.
+Auf beiden Screens ist ein Button (weiter/zurück) der den Spieler entweder zurück zur Frage oder zur nächsten Frage bringt.
 
 Danach haben wir angefangen, uns Fragen für das Quiz zu überlgen und diese zu notieren. Gegen Ende der Doppelstunde haben wir dann den Stundeblog weiter geschrieben. 
 
@@ -146,7 +146,7 @@ Heute haben wir damit angefangen, die Frage-Screen zu programmieren. Dabei haben
 
 Jeder der Buttons sorgt für einen Screenwechseln, jedoch nur wenn button106 ("Steven Strange")geklickt wird, wird der "gewonnen"-SCreen angezeigt, ansonsten der "verloren"-Screen. 
 
-Dies haben wir erneut mithilfe des onEvent-Blocks programmiert und für jeden der vier Button angewendet, wobei der Befeht "setScreen" daran angepasst ist, welcher Screen erscheinen soll. Zudem haben wir in den Befehl eingefügt, dass wenn der verloren-Screen gezeigt und der "zurück"-Button geklickt wird wieder der vorherrige Screen, in diesem Fall screen101 gezeigt wird, im "gewonnen"-Fall der nächste Screen (screen102). Der Übersicht halber haben wir zudem zu anfang der ersten Frage den Kommentar "Frage 1" eingefügt, da dies später hilfreich sein könnte.
+Dies haben wir erneut mithilfe des onEvent-Blocks programmiert und für jeden der vier Button angewendet, wobei der Befeht "setScreen" daran angepasst ist, welcher Screen erscheinen soll. Zudem haben wir in den Befehl eingefügt, dass wenn der verloren-Screen gezeigt und der "zurück"-Button geklickt wird wieder der vorherrige Screen, in diesem Fall screen101 gezeigt wird, im "gewonnen"-Fall der nächste Screen (screen102). Der Übersicht halber haben wir zudem zu Anfang der ersten Frage den Kommentar "Frage 1" eingefügt, da dies später hilfreich sein könnte.
 
 Die folgenden Screenshots zeigen die beschriebenen Befehle:
 
@@ -161,15 +161,15 @@ Die folgenden Screenshots zeigen die beschriebenen Befehle:
 
 ## <a name="10"></a> Dienstag, 12. Februar 2019
 
-Da wir nun wissen, wie wir das Quiz an sich erstellen können, haben wir uns heute mit der Variable "Leben" beschäftigt. Hierzu haben wir zunächst nach einiger Recherchen im Internet sowie auf YouTube die Variable "leben" definiert und zunächst auf einen Startwert von 10 gesetzt, da der Spieler diese Anzahl an Leben haben sollte. Wir sind jedoch noch nicht ganz sicher, ob wir die Anzahl noch herabsetzen. Dieser Befehl erfolgt noch vor der ersten Frage. 
+Da wir nun wissen, wie wir das Quiz an sich erstellen können, haben wir uns heute mit der Variable "Leben" beschäftigt. Hierzu haben wir zunächst nach einigen Recherchen im Internet sowie auf YouTube die Variable "leben" definiert und zunächst auf einen Startwert von 10 gesetzt, da der Spieler diese Anzahl an Leben haben soll. Wir sind jedoch noch nicht ganz sicher, ob wir die Anzahl noch herabsetzen. Dieser Befehl erfolgt noch vor der ersten Frage. 
 
 <img width="196" alt="Bildschirmfoto 2019-03-23 um 23 12 55" src="https://user-images.githubusercontent.com/42578525/54872231-44cfb280-4dc1-11e9-917b-8ecd41b7f2dc.png">
 
-Anschließend haben wir etwas recherchiert und ausprobiert, bis wir es richtig hinbekommen haben, dass bei jeder falschen Antwort die Anzahl der Leben um eins reduziert wird. Hierzu nutzten wir folgenden Befehl:
+Anschließend haben wir etwas ausprobiert, bis wir es richtig hinbekommen haben, dass bei jeder falschen Antwort die Anzahl der Leben um eins reduziert wird. Hierzu nutzten wir folgenden Befehl:
 
 <img width="211" alt="Bildschirmfoto 2019-03-23 um 23 15 06" src="https://user-images.githubusercontent.com/42578525/54872258-83656d00-4dc1-11e9-8945-8bc999d60dc9.png">
 
-Das Programmieren dieses Befehls hat uns recht vile Zeit gekostet, da die Befehlblöcke der Variablen sehr ähnlich sind (s. nächstes Bild) und uns der Unterschied zunächst nicht bewusst war, weshalb die Variabele zunächst nicht richtig erkannt und dann das Reduzieren um 1 nicht funktionierte, sodass wir verschiedene Dinge probierten, bis wir unseren Fehler erkannten und richtig korrigieren konnten. 
+Das Programmieren dieses Befehls hat uns recht viel Zeit gekostet, da die Befehlblöcke der Variablen sehr ähnlich sind (s. nächstes Bild) und uns der Unterschied zunächst nicht bewusst war, weshalb die Variabele zunächst nicht richtig erkannt und dann das Reduzieren um 1 nicht funktionierte, sodass wir verschiedene Dinge probierten, bis wir unseren Fehler erkannten und richtig korrigieren konnten. 
 
 <img width="125" alt="Bildschirmfoto 2019-03-23 um 23 26 28" src="https://user-images.githubusercontent.com/42578525/54872393-721d6000-4dc3-11e9-95a3-714832e233da.png">
 
@@ -178,7 +178,7 @@ Diesen Befehl wiederholten wir so bei jedem Befehl für einen falschen Button. D
 
 <img width="544" alt="Bildschirmfoto 2019-03-23 um 23 19 02" src="https://user-images.githubusercontent.com/42578525/54872294-13a3b200-4dc2-11e9-9f58-866889e15ace.png">
 
-Ausgenommen von diesem ist jedentlich der Fall einer richtigen Antwort, da in diesem Fall kein Leben abgezogen werden muss. 
+Ausgenommen von diesem ist jedoch der Fall der richtigen Antwort, da in diesem Fall kein Leben abgezogen werden muss. 
 
 Wir haben es allerdings zunächst nicht hinbekommen, dass ein Endscreen folgt, wenn die Leben bei 0 angelangt sind. Damit werden wir uns noch befassen.
 
@@ -190,7 +190,7 @@ Anschließend haben wir angefangen, die nächsten Frage-Screens zu gestalten, um
 
 Da heute der Informatikunterricht ausgefallen ist, haben wir in unseren Freistunden gemeinsam an dem Projekt weitergearbeitet. 
 
-Nachdem wir uns beide seit letzter Woche mit der Idee eines möglichen Psychotests beschäftigt hatten, haben wir heute entschieden,  noch unsere bereits gestalteten Screens zu programmieren und dann mit dem Psychotest "Welcher Marvelheld bin ich?" zu beginnen, da wir uns nicht sicher sind, wie zeitaufwendig dieses Projekt wird und wir bis zum Beginn der Abiphase möglichst weit sein wollen und beim Quiz wissen, was wir zu tun haben. 
+Nachdem wir uns beide seit letzter Woche mit der Idee eines möglichen Psychotests beschäftigt hatten, haben wir heute entschieden,  noch unsere bereits gestalteten Screens des Quizes zu programmieren und dann mit dem Psychotest "Welcher Marvelheld bin ich?" zu beginnen, da wir uns nicht sicher sind, wie zeitaufwendig dieses Projekt wird und wir bis zum Beginn der Abiphase möglichst weit sein wollen und beim Quiz wissen, was wir zu tun haben. 
 
 Zunächst haben wir also das Quiz weiterbarbeitet: Dazu haben wir zu den vorhandenen Screens nach dem oben genannten Vorgehen die Blöcke programmiert, sodass auch hier bei einer falschen Antwort ein Leben abgezogen wurde. Dabei haben wir jede Frage mithilfe des Kommentars "FrageX" voneinander getrennt, um den Überblick zu behalten. Somit ergaben sich folgende und zahlreiche weitere gleich aufgebaute Blöcke :
 
@@ -198,7 +198,7 @@ Zunächst haben wir also das Quiz weiterbarbeitet: Dazu haben wir zu den vorhand
 <img width="538" alt="Bildschirmfoto 2019-03-23 um 23 56 59" src="https://user-images.githubusercontent.com/42578525/54872638-67fd6080-4dc7-11e9-92f8-0c99be65eb4c.png">
 <img width="499" alt="Bildschirmfoto 2019-03-23 um 23 57 15" src="https://user-images.githubusercontent.com/42578525/54872639-6b90e780-4dc7-11e9-8086-9ce937b0d84b.png">
 
-Zusätzlich haben wir einen weiteree Frage-Screen gestaltet und auch direkt programmiert:
+Zusätzlich haben wir einen weitere Frage-Screen gestaltet und auch direkt programmiert:
 
 
 <img width="320" alt="Bildschirmfoto 2019-03-23 um 23 59 08" src="https://user-images.githubusercontent.com/42578525/54872657-af83ec80-4dc7-11e9-8f0c-c669acdd41e1.png">
@@ -217,7 +217,7 @@ Zusätzlich haben wir einen weiteree Frage-Screen gestaltet und auch direkt prog
 <img width="311" alt="Bildschirmfoto 2019-03-24 um 00 14 33" src="https://user-images.githubusercontent.com/42578525/54872780-2fab5180-4dca-11e9-81d5-e295c616ca78.png"> <img width="315" alt="Bildschirmfoto 2019-03-24 um 00 15 30" src="https://user-images.githubusercontent.com/42578525/54872782-3639c900-4dca-11e9-9542-9139ebebc94c.png">
 <img width="550" alt="Bildschirmfoto 2019-03-24 um 00 16 03" src="https://user-images.githubusercontent.com/42578525/54872784-3afe7d00-4dca-11e9-97b7-bb92f18ef3e3.png">
 
-Anschließend haben wir überlegt, wie wir das Quiz so aufbauen, dass dem Spieler am Ende ein bestimmter Held zugeordnet wird. Dafür haben wir uns entschieden, dass wir bei den meisten Fragen für jeden Helden jeweils genau eine passende Antwort haben und einen Score, der beim Anklicken dieser Antwort um eine "heldspezifische" Zahl erhöht wird. Somit könnten wir am nde einen Bereich festlegen, der anhand  Antworten und Punktestand den richtigen Held definiert. Hierbei haben wir zudem überlegt, dass es Sinn machen würde, Loki als einzigen "Bösen" die Punktzahl 1 zu geben, da er sich so in seiner Punktezahl von den anderen angrenzt und es nicht so schnell zu einem falschen Ergebnis kommt. SOmit ergaben sich folgende Punkte für die möglichen Ergebnisse: 
+Anschließend haben wir überlegt, wie wir das Quiz so aufbauen, dass dem Spieler am Ende ein bestimmter Held zugeordnet wird. Dafür haben wir uns entschieden, dass wir bei den meisten Fragen für jeden Helden jeweils genau eine passende Antwort haben und einen Score, der beim Anklicken dieser Antwort um eine "heldspezifische" Zahl erhöht wird. Somit könnten wir am nde einen Bereich festlegen, der anhand  Antworten und Punktestand den richtigen Held definiert. Hierbei haben wir zudem überlegt, dass es Sinn machen würde, Loki als einzigen "Bösen" die Punktzahl 1 zu geben, da er sich so in seiner Punktezahl von den anderen angrenzt und es nicht so schnell zu einem falschen Ergebnis kommt. Somit ergaben sich folgende Punkte für die möglichen Ergebnisse: 
 
 
 <img width="186" alt="Bildschirmfoto 2019-03-24 um 00 24 24" src="https://user-images.githubusercontent.com/42578525/54872850-371f2a80-4dcb-11e9-8ca5-3ca61ce06dcd.png">
@@ -230,7 +230,7 @@ Die heutige Stunde haben wir vollständig dafür genutzt, den Stundenblog der le
 
  ## <a name="14"></a> Dienstag, 26. Februar 2019
  
-Heute haben wir anhand der gestern erstellten Fragen und Antowrten die zehn Frage-Screens erstellt. Dazu haben wir die zehn Screens screen1 bis screen10 jeweils mit einem Textfeld mit der Frage sowie verschieden vielen Buttons (meistens 8, bei zwei Fragen weniger) entworfen. Dies hat fast die ganze Doppelstunde gedauert, da der Computer mehrfach abgestürzt ist, aber am Ene hatten wir folgende zehn SCreens erstellt:
+Heute haben wir anhand der gestern erstellten Fragen und Antowrten die zehn Frage-Screens erstellt. Dazu haben wir die zehn Screens screen1 bis screen10 jeweils mit einem Textfeld mit der Frage sowie verschieden vielen Buttons (meistens 8, bei zwei Fragen weniger) entworfen. Dies hat fast die ganze Doppelstunde gedauert, da der Computer mehrfach abgestürzt ist, aber am Ende hatten wir folgende zehn Screens erstellt:
  
 <img width="317" alt="Bildschirmfoto 2019-03-24 um 22 05 32" src="https://user-images.githubusercontent.com/42578525/54886118-8ffec980-4e84-11e9-904b-e22fcad9d5c2.png"><img width="314" alt="Bildschirmfoto 2019-03-24 um 22 05 55" src="https://user-images.githubusercontent.com/42578525/54886119-8ffec980-4e84-11e9-8164-7c8bd9e5ba91.png"><img width="318" alt="Bildschirmfoto 2019-03-24 um 22 06 05" src="https://user-images.githubusercontent.com/42578525/54886120-8ffec980-4e84-11e9-9fa5-0f324a5c05fd.png"><img width="320" alt="Bildschirmfoto 2019-03-24 um 22 06 13" src="https://user-images.githubusercontent.com/42578525/54886121-90976000-4e84-11e9-83db-f50b67f1a3ca.png"><img width="321" alt="Bildschirmfoto 2019-03-24 um 22 08 04" src="https://user-images.githubusercontent.com/42578525/54886122-90976000-4e84-11e9-8ad8-bf2dde9c3b4d.png"><img width="314" alt="Bildschirmfoto 2019-03-24 um 22 08 14" src="https://user-images.githubusercontent.com/42578525/54886126-a2790300-4e84-11e9-9ea8-ec1a6a80a5b1.png"><img width="314" alt="Bildschirmfoto 2019-03-24 um 22 08 29" src="https://user-images.githubusercontent.com/42578525/54886132-a9a01100-4e84-11e9-95f3-6d4809b7dd62.png"><img width="317" alt="Bildschirmfoto 2019-03-24 um 22 21 22" src="https://user-images.githubusercontent.com/42578525/54886133-aa38a780-4e84-11e9-8769-3a793d6f5cea.png"><img width="312" alt="Bildschirmfoto 2019-03-24 um 22 21 33" src="https://user-images.githubusercontent.com/42578525/54886134-aa38a780-4e84-11e9-80a7-3a191d988d46.png"><img width="311" alt="Bildschirmfoto 2019-03-24 um 22 21 44" src="https://user-images.githubusercontent.com/42578525/54886127-a2790300-4e84-11e9-9f69-edf8ba8e14ad.png">
 
@@ -259,7 +259,7 @@ Die gesamte heutige Doppelstunde haben wir genutzt um nach dem gestern geschilde
 
   ## <a name="18"></a> Dienstag, 19. März 2019
  
- Da heute der Nachmittagsunterricht ausgefallen ist, haben wir zuhasue an unserem Projekt weitergearbeitet.
+ Da heute der Nachmittagsunterricht ausgefallen ist, haben wir zuhause an unserem Projekt weitergearbeitet.
  
  Nachdem wir gestern die Fragescreens erstellt haben, haben wir heute angefangen, die Auswertung zu programmieren. Dazu haben wir ausgerechnet, wie viele Punkte man ungefähr bräuchte, um die jeweilige Person als Ergebnis zu erreichen. Dazu haben wir und zunächst an den Werten orientiert, die herauskommen würden, wenn man mit jeder Antwort die Antwort der jeweiligen Figur wählen würde ("Punktzahl des Helden" x 10) und haben mithilfe des "if"-Blocks folgenden Befehlprogrammiert:
   
