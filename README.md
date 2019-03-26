@@ -268,7 +268,7 @@ Die gesamte heutige Doppelstunde haben wir genutzt um nach dem gestern geschilde
 
 Da wir das ganze ca. 30 Mal ausprobieren mussten, haben wir die gesamte Doppelstunde damit verbracht, die Werte zu ermitteln und in den Befehlen festzuhalten.
 
-  ## <a name="29"></a> Montag, 25. März 2019
+  ## <a name="19"></a> Montag, 25. März 2019
   
 Heute haben wir aufgrund der morgigen Abgabe des Stundeblogs den Blog weiterbearbeitet und die Beiträge von letztem Montag und Dienstag geschrieben, da wir diese zunächst nur in Stichpunkten festgehalten hatten , um die Zeit effektiv für unser Projekt zu nutzen. Daher haben wir diese heute ausgeschrieben und zudem noch weitere Screenshots eingefügt, da wir zuvor mehrfach das Problem gehabt hatten, dass wir unsere Änderungen am GitHub-Blog nicht richtig / vollständig speichern konnten. 
   
