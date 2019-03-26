@@ -1,8 +1,11 @@
 # Stundenblog - MARVEL 
 ## 2. Halbjahr
 
-<details><summary>##Inhaltsverzeichnis</summary>
+## *Inhaltsverzeichnis*
+
+<details><summary>Anzeigen</summary>
 <p>
+ 
 [1.   Dienstag, 08. Januar 2019](#1)  
 
 [2.   Montag, 14. Januar 2019](#2)
