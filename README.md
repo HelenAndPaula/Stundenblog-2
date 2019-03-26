@@ -45,14 +45,11 @@
 
 [21.   Fazit](#21)
 
-<summary>Click to expand!</summary>
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
 
 ## *Stundenblog*
 
