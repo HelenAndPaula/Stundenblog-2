@@ -42,6 +42,8 @@
 
 [20.   Dienstag, 26. März 2019](#20)
 
+[21.   Fazit](#21)
+
 
 ## *Stundenblog*
 
@@ -266,11 +268,11 @@ Die gesamte heutige Doppelstunde haben wir genutzt um nach dem gestern geschilde
 
 Da wir das ganze ca. 30 Mal ausprobieren mussten, haben wir die gesamte Doppelstunde damit verbracht, die Werte zu ermitteln und in den Befehlen festzuhalten.
 
-  ## <a name="18"></a> Montag, 25. März 2019
+  ## <a name="29"></a> Montag, 25. März 2019
   
 Heute haben wir aufgrund der morgigen Abgabe des Stundeblogs den Blog weiterbearbeitet und die Beiträge von letztem Montag und Dienstag geschrieben, da wir diese zunächst nur in Stichpunkten festgehalten hatten , um die Zeit effektiv für unser Projekt zu nutzen. Daher haben wir diese heute ausgeschrieben und zudem noch weitere Screenshots eingefügt, da wir zuvor mehrfach das Problem gehabt hatten, dass wir unsere Änderungen am GitHub-Blog nicht richtig / vollständig speichern konnten. 
   
-  ## <a name="18"></a> Dienstag, 26. März 2019
+  ## <a name="20"></a> Dienstag, 26. März 2019
 
 Heute haben wir weiter am Psychotest gearbeitet und einen zusaätzlichen Screen eingefügt, der angezeigt werden soll, bevor das Ergebnis angezeigt wird, um in gewisser Weise die Spannung zu erhöhen:
 
@@ -278,7 +280,7 @@ Heute haben wir weiter am Psychotest gearbeitet und einen zusaätzlichen Screen 
 
 Klickt der Nutzer auf den Button "Ja!", so wird ihm sein Ergebnis angezeigt (s. oben). Anschließend haben wir, da nun die Programmierung stimmte, alle Textfelder (ergebnis1-11) auf die Farbe schwarz (#0000) gestellt, da der Spieler sie nicht sehen soll, wir aber weiterhin die Möglihkeit haben wollten, darauf zurückzugreifen, falls noch Probleme mit dem Score auftreten sollten.
 
-  ## <a name="18"></a> Fazit
+  ## <a name="21"></a> Fazit
   
   Da wir den Stundenblog heute abgeben werden, gilt er nur bis zum heutigen Tag. Da unser Projekt natürlich bei weitem noch nicht abgeschlossen ist, wird sich noch viel verändern, doch das werden wir auch im Projektblog festhalten.
   
