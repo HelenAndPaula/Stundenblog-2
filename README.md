@@ -241,3 +241,15 @@ Die gesamte heutige Doppelstunde haben wir genutzt um nach dem gestern geschilde
   Seit lezter Stunde haben wir zuhause die letzten beiden Fragescreens programmiert (s.oben) und zudem die acht verschiedenen möglichen Ergebnisse als Screens festgehalten. Hierzu haben wir mithilfe des "Design"-Bereichs von AppLab acht schwarze Screens erstellt und jeweils mit dem Namen der Figur, einem Bild und teilweise bereits einem kurzen Text versehen, den wir am Ende bei allen haben wollen. 
   
 ![black widow screen](https://user-images.githubusercontent.com/42578525/54910985-bad13800-4eed-11e9-9c67-c4c3e3161a06.PNG) ![cap screen](https://user-images.githubusercontent.com/42578525/54911001-bf95ec00-4eed-11e9-8867-0f6b2152c0ad.PNG) ![loki screen](https://user-images.githubusercontent.com/42578525/54911008-c3297300-4eed-11e9-8410-0cb62ea6947a.PNG) ![scarlett screen](https://user-images.githubusercontent.com/42578525/54911009-c3297300-4eed-11e9-9871-f058de4bc55e.PNG) ![screen groot](https://user-images.githubusercontent.com/42578525/54911010-c3297300-4eed-11e9-9b3d-654c67a743a2.PNG) ![screen thor](https://user-images.githubusercontent.com/42578525/54911013-c45aa000-4eed-11e9-858f-fe4d336f5dde.PNG) ![spiderman screen](https://user-images.githubusercontent.com/42578525/54911014-c4f33680-4eed-11e9-871b-c432a60f1d2f.PNG) ![screen iron](https://user-images.githubusercontent.com/42578525/54911073-ea804000-4eed-11e9-94bd-fc2c32879adf.PNG)
+
+
+  ## <a name="17"></a> Dienstag, 19. März 2019
+  
+  Nachdem wir gestern die Fragescreens erstellt haben, haben wir heute angefangen, die Auswertung zu programmieren. Dazu haben wir ausgerechnet, wie viele Punkte man ungefähr bräuchte, um die jeweilige Person als Ergebnis zu erreichen. Dazu haben wir und zunächst an den Werten orientiert, die herauskommen würden, wenn man mit jeder Antwort die Antwort der jeweiligen Figur wählen würde ("Punktzahl des Helden" x 10) und haben mithilfe des "if"-Blocks folgenden Befehlprogrammiert:
+  
+  ![screen 123](https://user-images.githubusercontent.com/42578525/55005258-f34f3f80-4fdb-11e9-98e3-8881a8b151a3.PNG)
+  
+  Dieser gibt an,dass wenn der Score größer und gleich eines gegeben Wertes ist, ein bestimmter Screen erscheint. Da wir auf jedem Screen ein Textfeld ("ergebnis") eingefügt haben, konnten wir die verschiedenen Punktedurchschnitte durch ausprobieren herausfinden. Da es mehrere Screens mit nicht genau acht zutreffenden Antworten gibt, mussten wir die Ergebniswerte anpassen. Dabeiergaben sich folgende Werte, mit denen im Durchschnitt fast immer der richtige Held herauskommt. 
+  
+![ergebnisse1](https://user-images.githubusercontent.com/42578525/55005853-0adaf800-4fdd-11e9-92a6-ac054b06872b.PNG)
+![ergenisse2](https://user-images.githubusercontent.com/42578525/55005873-13cbc980-4fdd-11e9-90ff-2158d3f036f2.PNG)
