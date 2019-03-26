@@ -1,7 +1,7 @@
 # Stundenblog - MARVEL 
 ## 2. Halbjahr
 
-<details><summary>## *Inhaltsverzeichnis*  ME</summary>
+<details><summary>##Inhaltsverzeichnis</summary>
 <p>
 [1.   Dienstag, 08. Januar 2019](#1)  
 
