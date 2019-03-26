@@ -48,7 +48,8 @@
 <details><summary>CLICK ME</summary>
 <p>
 
-#### yes, even hidden code blocks!
+#### yes, even hidden code blocks! 
+</details>
   
 
 ## *Stundenblog*
