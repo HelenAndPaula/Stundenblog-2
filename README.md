@@ -1,4 +1,4 @@
-# Stundenblog-2
+# Stundenblog (2. Halbjahr)
 
 ## *Inhaltsverzeichnis* 
 
